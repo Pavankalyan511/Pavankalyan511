@@ -149,7 +149,6 @@ An image steganography tool built to securely hide confidential data within imag
 - 🥈 **Smart India Hackathon (SIH)** — 2nd Place Winner, building an innovative real-world solution under nationwide hackathon conditions
 - 🚀 **Startup Pitch @ Ratan Tata Innovation Hub (RTIH)** — Selected to pitch **EximIQ**, an intelligent import-export and logistics platform, before an evaluation panel
 - ☕ **Oracle Certified Java Associate / Professional** — Core software engineering & JVM architecture expertise
-- ✅ **TCS National Qualifier Test (NQT)** — Cleared the recruitment evaluation
 - ☁️ **AI Azure Virtual Internship** — Edunet Foundation × AICTE × Microsoft
 - 🛡️ **Cyber Security Virtual Internship** — Edunet Foundation × AICTE × IBM SkillsBuild
 
